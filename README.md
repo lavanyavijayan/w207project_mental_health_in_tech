@@ -1,7 +1,7 @@
 # Mental Health in the Tech Industry - w207 Final Project 
 
 ## Project Members:
-Shalini Kunapuli, Anusha Mohan, Anjali Unnithan, Lavanya Vijayan 
+Anjali Unnithan, Lavanya Vijayan, Anusha Mohan, Shalini Kunapuli
 
 
 ## Main Branch:
